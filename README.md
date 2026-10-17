@@ -2,7 +2,7 @@
 
 自分のペースで解ける、600問のSPI練習アプリです。
 
-**Webサイト： https://rjochi.github.io/spi-practice/**
+**公開先（GitHub Pagesを有効化すると利用できます）： https://rjochi.github.io/spi-practice/**
 
 ## 画面イメージ
 
